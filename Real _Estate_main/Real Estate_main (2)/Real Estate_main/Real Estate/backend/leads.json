@@ -1,0 +1,22 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "name": "Sarah Jenkins",
+      "stage": "New",
+      "score": 15,
+      "created_at": "2026-02-14T23:26:23.891Z",
+      "last_contacted": "2026-02-14T23:26:23.891Z",
+      "intent": "Buyer",
+      "location": "Downtown",
+      "budget_min": 450000,
+      "budget_max": 600000,
+      "timeline": "3 months",
+      "checklist": "{}",
+      "appointment": "{}",
+      "insights": "{}",
+      "reasoning": "Initial contact made."
+    }
+  ],
+  "nextId": 2
+}

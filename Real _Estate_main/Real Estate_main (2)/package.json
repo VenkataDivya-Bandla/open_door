@@ -1,0 +1,10 @@
+{
+    "name": "real-estate-project-root",
+    "private": true,
+    "scripts": {
+        "dev": "start /B node \"Real Estate_main/Real Estate/backend/server.js\" & npm run dev --prefix \"Real Estate_main/Real Estate\"",
+        "backend": "node \"Real Estate_main/Real Estate/backend/server.js\"",
+        "build": "npm run build --prefix \"Real Estate_main/Real Estate\"",
+        "install-all": "npm install --prefix \"Real Estate_main/Real Estate\" && npm install --prefix \"Real Estate_main/Real Estate/backend\""
+    }
+}
